@@ -12,6 +12,6 @@
 
         // navigation property
 
-        public Product Product { get; set; }
+        public Product? Product { get; set; }
     }
 }

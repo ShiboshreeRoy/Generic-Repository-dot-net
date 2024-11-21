@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\GenericRepository\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|e:\\genericrepository\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3576F805-2E0C-498B-A7AE-922502AAA4E7}|GenericRepository.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
@@ -79,25 +79,11 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T16:36:08.915Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlogRequest.cs",
-              "DocumentMoniker": "E:\\GenericRepository\\Request\\BlogRequest.cs",
-              "RelativeDocumentMoniker": "Request\\BlogRequest.cs",
-              "ToolTip": "E:\\GenericRepository\\Request\\BlogRequest.cs",
-              "RelativeToolTip": "Request\\BlogRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T10:04:15.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BlogController.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
@@ -105,12 +91,11 @@
               "RelativeToolTip": "Controllers\\BlogController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAmwE0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:56:36.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:56:36.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "OrderRequest.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Request\\OrderRequest.cs",
               "RelativeDocumentMoniker": "Request\\OrderRequest.cs",
@@ -118,12 +103,11 @@
               "RelativeToolTip": "Request\\OrderRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:28:46.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:28:46.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -131,25 +115,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:46:52.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T07:46:52.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "E:\\GenericRepository\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwEUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAxwEUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:37:19.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T07:37:19.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Blog.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Model\\Blog.cs",
               "RelativeDocumentMoniker": "Model\\Blog.cs",
@@ -157,21 +139,19 @@
               "RelativeToolTip": "Model\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:34:40.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T07:34:40.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Repository\\Repository.cs",
               "ToolTip": "E:\\GenericRepository\\Repository\\Repository.cs",
               "RelativeToolTip": "Repository\\Repository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:29:27.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T16:29:27.508Z"
             },
             {
               "$type": "Document",
@@ -183,12 +163,11 @@
               "RelativeToolTip": "Data\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:33:05.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T16:33:05.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Model\\Order.cs",
               "RelativeDocumentMoniker": "Model\\Order.cs",
@@ -196,12 +175,35 @@
               "RelativeToolTip": "Model\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:38:15.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T16:38:15.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\GenericRepository\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "E:\\GenericRepository\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:22:36.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BlogRequest.cs",
+              "DocumentMoniker": "E:\\GenericRepository\\Request\\BlogRequest.cs",
+              "RelativeDocumentMoniker": "Request\\BlogRequest.cs",
+              "ToolTip": "E:\\GenericRepository\\Request\\BlogRequest.cs",
+              "RelativeToolTip": "Request\\BlogRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:04:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -209,12 +211,11 @@
               "RelativeToolTip": "Controllers\\OrderController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwE8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:11:44.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:11:44.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductRequest.cs",
               "DocumentMoniker": "E:\\GenericRepository\\Request\\ProductRequest.cs",
               "RelativeDocumentMoniker": "Request\\ProductRequest.cs",
@@ -222,12 +223,11 @@
               "RelativeToolTip": "Request\\ProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:29:19.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T09:29:19.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\GenericRepository\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -235,21 +235,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-25T07:47:04.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\GenericRepository\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
-              "ToolTip": "E:\\GenericRepository\\Repository\\IRepository.cs",
-              "RelativeToolTip": "Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:22:36.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T07:47:04.014Z"
             }
           ]
         }

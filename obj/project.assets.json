@@ -2718,27 +2718,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shibo\\.nuget\\packages\\": {}
+    "C:\\Users\\STC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GenericRepository\\GenericRepository.csproj",
+      "projectUniqueName": "D:\\DATA\\Programmer\\GenericRepository\\GenericRepository.csproj",
       "projectName": "GenericRepository",
-      "projectPath": "E:\\GenericRepository\\GenericRepository.csproj",
-      "packagesPath": "C:\\Users\\shibo\\.nuget\\packages\\",
-      "outputPath": "E:\\GenericRepository\\obj\\",
+      "projectPath": "D:\\DATA\\Programmer\\GenericRepository\\GenericRepository.csproj",
+      "packagesPath": "C:\\Users\\STC\\.nuget\\packages\\",
+      "outputPath": "D:\\DATA\\Programmer\\GenericRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shibo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\STC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2800,7 +2797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

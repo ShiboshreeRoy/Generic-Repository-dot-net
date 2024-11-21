@@ -1,5 +1,6 @@
 ﻿
 using GenericRepository.Data;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 
 namespace GenericRepository.Repository
@@ -38,12 +39,13 @@ namespace GenericRepository.Repository
             return await _dbset.FindAsync(id);
         }
 
-        public async Task UpdateAsync(T entity)
+        public async Task<T> UpdateAsync(T entity)
         {
             _dbset.Attach(entity);
             _dbcontext.Entry(entity).State = EntityState.Modified;
 
              await _dbcontext.SaveChangesAsync();
+            return entity;
 
         }
     }
